@@ -1,11 +1,12 @@
 {
 	"name": "Character Swap",
-	"version": "1.0.0",
+	"version": "1.0.1",
+	"homepage": "https://github.com/asmdev/CharSwap",
 	"description": "Play as a variety of characters previously unavailable.",
 	"plugin": "mod.js",
 	"module": false,
 	"ccmodDependencies": {
-        "crosscode": "^1.2.0",
-        "ccloader": "^2.14.3"
+		"crosscode": "^1.2.0",
+		"ccloader": "^2.14.3"
 	}
 }
